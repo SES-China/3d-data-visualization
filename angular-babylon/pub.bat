@@ -1,4 +1,1 @@
-xcopy dist\angular-babylon\*.* ../
-
-
-Yes
+xcopy dist\*.* ../
